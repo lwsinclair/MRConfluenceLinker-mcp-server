@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/codebywaqas-mrconfluencelinker-mcp-server-badge.png)](https://mseep.ai/app/codebywaqas-mrconfluencelinker-mcp-server)
+
 # GitLab PR Analysis MCP Server
 
 This project provides an MCP (Model Control Protocol) server that integrates GitLab merge request analysis with Confluence documentation. It allows you to fetch merge request details, analyze code changes, and store the results in Confluence pages.
